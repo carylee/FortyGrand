@@ -1,0 +1,18 @@
+Forty Grand
+===========
+A novel by Kathryn N. Bush, Golden Writer
+
+Forty Grand is my grandmother's first novel, loosly based on her
+experiences growing up in Georgia during the Great Depression. She
+self-published her novel in 2002 and sold copies out of her purse for
+$20 a piece.
+
+Memama passed away on August 10th, 2011. She will live on through her
+writing - both her novels and her short inspirational writings (which I
+am publishing the [Golden Writer Blog](http://goldenwriter.caryme.com).
+
+This project is attempting to edit and republish an ebook of her first
+novel. She self-published through a local printer and never got a
+digital copy of her typeset book. I had both her novels scanned by
+[1dollarscan](http://1dollarscan.com) and am now working through the
+process of creating an html version suitable for the kindle bookstore.
