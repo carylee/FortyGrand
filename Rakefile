@@ -2,7 +2,7 @@ require 'rubygems'
 require 'kramdown'
 
 task :default do
-  book = "<html><head><title>Forty Grand</title></head><body>"
+  book = "<html><head><meta name='cover' content='cover.jpg'><title>Forty Grand</title></head><body>"
   Dir.chdir('chapters/01-Part-One')
   Dir.glob("[0-9][0-9]*.mkd").each do |filename|
     markdown = File.read(filename)
