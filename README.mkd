@@ -17,4 +17,4 @@ digital copy of her typeset book. I had both her novels scanned by
 [1dollarscan](http://1dollarscan.com) and am now working through the
 process of creating an html version suitable for the kindle bookstore.
 
-![Forty Grand Cover](cover.jpg)
+![Forty Grand Cover](https://github.com/carylee/FortyGrand/raw/master/cover.jpg)
